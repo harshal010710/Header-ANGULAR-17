@@ -1,0 +1,26 @@
+nav
+{
+	background-color: silver;
+	padding: 40px;
+}
+
+ul
+{
+	float: right;
+}
+
+ul li
+{
+	display: inline-block;	
+	padding: 10px;
+	cursor: pointer;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	
+}
+
+li a{
+	text-decoration: none;
+	color: black;
+}
+
+
